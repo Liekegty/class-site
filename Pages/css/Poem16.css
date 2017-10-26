@@ -1,0 +1,68 @@
+body {
+    height: 3500px;
+}
+
+.large {
+    font-family: arial;
+    font-size: 40px;
+        
+}
+
+.font-family {
+    font-family: American Typewriter, serif;
+    font-weight: 40;
+}
+
+.centered {
+ text-align: center;
+ font-style: italic;
+ color: deeppink
+}
+
+.regular {
+    font-weight: 50;
+}
+
+#anchor {
+    top: 3000px;
+    position: absolute;
+}
+
+#letterspace { 
+    letter-spacing: 7px;
+}
+
+#rotate {
+    right: 10px;
+    top: 30px;
+    -ms-transform: rotate(9deg); /* IE 9 */
+    -webkit-transform: rotate(9deg); /* Chrome, Safari, Opera */
+    transform: rotate(9deg);
+    
+}
+
+.float1 {
+    float: left;
+    width: 40%;
+    height: 50px;
+    border-style: dotted;
+}
+
+.float2 {
+    float: left;
+    width: 40%;
+    height: 50px;
+    border-style: solid;
+}
+
+#capitalize {
+   text-transform: uppercase;
+   clear: both;
+}
+
+#lineheight {
+    line-height: 10px;
+    clear: both;
+}
+
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(http://ani.cursors-4u.net/nature/nat-11/nat1053.cur), progress !important;} /* End http://www.cursors-4u.com */
