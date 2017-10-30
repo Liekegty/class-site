@@ -59,3 +59,24 @@ body {
     line-height: 10px;
     clear: both;
 }
+
+
+
+.previous {
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 90px;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    text-decoration: none;
+}
+
+.next {
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.round {
+    border-radius: 50%;
+}
