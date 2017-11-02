@@ -1,5 +1,18 @@
 body {
     height: 3500px;
+    background-color: blue;
+    font-family: arial;
+    text-align: center;
+    color: grey;
+}
+    #grad1 {
+    height: 2000px;
+    background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, darkblue); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white, darkblue); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, darkblue); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, darkblue); /* Standard syntax (must be last) */
+}
 }
 
 .large {
@@ -80,3 +93,7 @@ body {
 .round {
     border-radius: 50%;
 }
+
+
+
+
