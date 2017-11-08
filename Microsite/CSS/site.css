@@ -13,6 +13,11 @@ body {
     background: -moz-linear-gradient(white, darkblue); /* For Firefox 3.6 to 15 */
     background: linear-gradient(white, darkblue); /* Standard syntax (must be last) */
 }
+
+.left {
+    text-align: left;
+}
+
 }
 
 .large {
