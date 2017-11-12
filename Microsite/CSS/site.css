@@ -1,9 +1,11 @@
 body {
-	font-family: Monaco;
+	font-family: Helvetica Neue;
     margin:0;
   	padding:0;
  	background-color: blue;
+ 	color: black;
  ;
+
 }
     #grad1 {
     height: 4000px;
